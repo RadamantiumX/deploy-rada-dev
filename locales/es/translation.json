@@ -1,0 +1,64 @@
+{
+    "site": {
+        "title": "Eduardo Arede Portfolio | Solutions & web developer",
+        "description": "Desarrollo web y mucho más. Si quieres crear un sitio web moderno, puedo ayudarte con eso, puedes ver mi experiencia y proyectos. Entra para comprobarlo...🚀"
+    },
+    "header": {
+        "welcome": "Bienvenidos a mi Portfolio",
+        "name": " Soy Eduardo Arede",
+        "hdescription": "Desarrollador Full-Stack y software solutions",
+        "location": "De Buenos Aires, Argentina"
+    },
+    "nav": {
+        "home" : "Home",
+        "about" : "Sobre mi",
+        "projects" : "Proyectos",
+        "experience" : "Experiencia",
+        "contact" : "Contacto"
+    },
+    "socialwork": {
+        "carrer": "Encuentrame aquí también..."
+    },
+    "othersocials": {
+        "other": "Sígueme en mis redes sociales..."
+    },
+    "about": {
+        "title" : "Cuál es mi ocupación",
+        "p1": "A lo largo de mi vida, la he recorrido por diferentes trabajos, pero el mundo de la tecnología siempre fue mi principal atención. Después de mi paso por una fábrica metalúrgica, logre incorporarme a una importante automotriz ",
+        "italic": "(de bandera japonesa)",
+        "p2": ", de la más reconocida en el mundo. Es ahí donde aprendí el concepto de ",
+        "semibold": "Mejora contínua y resolución de problemas",
+        "p3": ", ambas puestas en práctica, tanto en mi entorno laboral, como fuera de el.",
+        "p4": "Solo poseo experiencia FREE-LANCER, pero no descarto ninguna posibilidad"    
+    },
+    "skills": {
+        "title" : "Habilidades",
+        "p1": "Estan incluídos algunos Framewoks de CSS similares.",
+        "p2": "Estan incluídos los similares sistemas para gestión de Base de datos."
+    },
+    "experience": {
+        "title" : "Experiencia (IT)",
+        "date": "Ene 2023 - Jul 2023",
+        "sub1": "Desarrollador PHP",
+        "desc1": "Mi desempeño fue, principalmente, el de mantenimiento y mejora de una aplicación e-commerce, ya en producción.",
+        "sub2": "Desarrollador ReactJS",
+        "desc2": "Desarrollo y gestión de sitios web estaticos y, también, apliaciones dinámicas. Estas últimas, requerian la utilización de diferentes librerias y paquetes para resolver distintos problemas comerciales."
+    },
+    "projects": {
+        "title" : "Algunos de mis Projectos",
+        "sub1": "Epikka | Analytics & Marketing",
+        "desc1": "Proveer las mejores estratégias en Marketing para negocios digitales.",
+        "sub2": "Microplastic detection | Solo con propósitos de investigación",
+        "desc2": "Utilizando técnicas de Machine Learning, y en combinación de algorítmos propios, se automatiza, mediante imágenes espectrales, el conteo y medición de microplásticos en el agua.",
+        "sub3": "M.A.L.M.V | Sitio web educacional",
+        "desc3": "Proyecto sustentable para determinar, y/o diágnosticas, la calidad en el agua.", 
+        "sub4": "EpsiWeb | Website Development",
+        "desc4": "Servicio de desarrollo web. La mejor experiencia para el usuario."
+     },
+     "contact": {
+        "title": "Contáctame",
+        "name": "Nombre",
+        "message": "Mensaje",
+        "send": "Enviar"
+    }
+}

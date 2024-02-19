@@ -1,0 +1,66 @@
+{
+    "site": {
+        "title": "Eduardo Arede Portfolio | Solutions & web developer",
+        "description": "Web developing and much more. If you wanna create a modern website, i can help with that, you can see my experience and projects. Enter to comprobe it...🚀"
+    },
+
+    "header": {
+        "welcome": "Welcome to my Portfolio",
+        "name": " I'm Eduardo Arede",
+        "hdescription": "Full stack web developer and software solutions",
+        "location": "From Buenos Aires, Argentina"
+    },
+    "nav": {
+        "home" : "Home",
+        "about" : "About me",
+        "projects" : "Projects",
+        "experience" : "Experience",
+        "contact" : "Contact"
+    },
+    "socialwork": {
+        "carrer": "Find me here too..."
+    },
+    "othersocials": {
+        "other": "Follow me here too..."
+    },
+    "about": {
+        "title" : "What's my profession",
+        "p1": "Throughout my life, I have had different occupations, but the world of IT has always been my main focus. After my experience in a metallurgical factory, I joined an important car factory ",
+        "italic": "(from Japan)",
+        "p2": ", which is one of the most important in the world. It was in that place where I learned the concept of ",
+        "semibold": "Continuous Improvement & Problem solving",
+        "p3": ", which I put into practice both, in my work environment and outside of it.",
+        "p4": "I have only Free-lancer projects for the moment, but, my mind is open for everything"
+    },
+    "skills": {
+        "title" : "My Skills",
+        "p1": "Included others similiars CSS Frameworks.",
+        "p2": "Included the similiars systems of DB management."
+    },
+    "experience": {
+        "title" : "Work Experience (IT)",
+        "date":"Jan 2023 - Jul 2023",
+        "sub1": "PHP Developer",
+        "desc1": "My tasks involved the maintenance, and post-production improvement, of an application developed in PHP intended for e-commerce.",
+        "sub2": "ReactJS Developer",
+        "desc2": "Development of static websites, and dynamic applications of greater complexity. In the latter, the use of the different libraries available to solve the commercial problem was very important."
+    },
+
+    "projects": {
+        "title" : "Some Projects",
+        "sub1": "Epikka | Analytics & Marketing",
+        "desc1": "Provide the best Marketing and Analytics strategies for digital businesses.",
+        "sub2": "Microplastic detection | Application for Researchers",
+        "desc2": "Based on machine learning and combining its own algorithms that allow manual or automatic analysis of its spectral data to identify, count and measure microplastics.",
+        "sub3": "M.A.L.M.V | Educational website",
+        "desc3": "It is a sustainability project that aims to help in the diagnosis of water quality.", 
+        "sub4": "EpsiWeb | Website Development",
+        "desc4": "Web development service. The best user experience, on any device and optimized." 
+    },
+    "contact": {
+        "title": "Contact me",
+        "name": "Name",
+        "message": "Message",
+        "send": "Send"
+    }
+}
